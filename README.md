@@ -14,9 +14,12 @@ Dự án trình diễn pipeline nhận diện khuôn mặt thời gian thực tr
 - Xem nhanh qua các GIF bên dưới (click để xem kích thước đầy đủ):
 
 <div align="center">
-  <img src="demo-p1.gif" alt="Demo 1" width="32%"/>
-  <img src="demo-p2.gif" alt="Demo 2" width="32%"/>
-  <img src="demo-p3.gif" alt="Demo 3" width="32%"/>
+
+  <img src="demo-p1.gif" alt="Demo 1 (Khoa Le demo)" width="32%"/>
+
+  <img src="demo-p2.gif" alt="Demo 2 (Khoa Le demo)" width="32%"/>
+
+  <img src="demo-p3.gif" alt="Demo 3 (Khoa Le demo)" width="32%"/>
 </div>
 
 
