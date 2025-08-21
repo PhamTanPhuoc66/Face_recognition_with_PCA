@@ -19,10 +19,6 @@ Dự án trình diễn pipeline nhận diện khuôn mặt thời gian thực tr
   <img src="demo-p3.gif" alt="Demo 3" width="32%"/>
 </div>
 
-- Nếu có file video .webm, bạn có thể nhúng tương tự:
-  <video src="demo.webm" width="720" controls muted>
-    Trình duyệt của bạn không hỗ trợ video tag. Xem trực tiếp file: demo.webm
-  </video>
 
 > Tham khảo thêm báo cáo chi tiết tại file PPS_Nhom_2_report.pdf để hiểu rõ thuật toán và các quyết định thiết kế.
 
